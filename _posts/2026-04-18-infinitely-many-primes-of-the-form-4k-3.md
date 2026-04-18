@@ -2,7 +2,7 @@
 
 layout: post
 title: "Infinitely Many Primes of the Form 4k + 3"
-date: 2026-04-18 10:00:00 +0000
+date: 2026-04-18 10:00:00 +0002
 tags: [number-theory, primes, modular-arithmetic, proofs]
 ---
 
