@@ -2,7 +2,7 @@
 
 layout: post
 title: "Infinitely Many Prime Numbers"
-date: 2026-04-18 00:00:00 +0003
+date: 2026-04-17 00:00:00 +0003
 tags: [mathematics, number-theory, primes, proofs]
 ---
 

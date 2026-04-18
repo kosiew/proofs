@@ -2,7 +2,7 @@
 
 layout: post
 title: "Proof that √2 is Irrational"
-date: 2026-04-18 10:00:01 +0000
+date: 2026-04-17 10:00:01 +0000
 tags: [mathematics, number-theory, proofs, irrational-numbers]
 ---
 
